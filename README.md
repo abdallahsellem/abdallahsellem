@@ -8,6 +8,8 @@
 
 - 🌱 I’m learning `Software Engineering` and `Web Development`.
 
+- I am enthusiastic about `deep learning and computer vision`
+
 
 
 
