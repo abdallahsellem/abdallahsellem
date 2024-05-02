@@ -21,7 +21,7 @@
 - **Full-stack Engineer Intern at Bld.ai (Aug 2022 – Nov 2022)**
 
 
-- 📄 Know more about me in my [RESUME](https://drive.google.com/file/d/1ac1RXfAdNu9AM9KhvLtj8SEvUz_1fG6q/view?usp=drive_link)
+- 📄 Know more about me in my [RESUME](https://drive.google.com/file/d/1fX8byTrlIjhoFgeB17aeGhb81XlXko_k/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
