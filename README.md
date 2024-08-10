@@ -4,9 +4,9 @@
 </p>
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🤓 I’m a `Senior Computer Engineering Student`. 
+- 🤓 I’m a `Computer Engineering Gradute`. 
 
-- 🌱 I’m learning `Software Engineering` and `Web Development`.
+- 🌱 I’m passionate about `Software Engineering` and `Web Development`.
 
 - I am enthusiastic about `deep learning and computer vision`
 
@@ -14,9 +14,11 @@
 
 
 🚀 **Experience:**
-- **Software Engineer (Part-Time) at Bld.ai (Nov 2022 – Nov 2023)**
+- **Software Engineer Intern at Cegedim Egypt (Aug 2024 – Oct 2024)**
 
 - **Software Engineer Intern at Microsoft Egypt (Jul 2023 – Sep 2023)**
+
+- **Software Engineer (Part-Time) at Bld.ai (Nov 2022 – Nov 2023)**
 
 - **Full-stack Engineer Intern at Bld.ai (Aug 2022 – Nov 2022)**
 
