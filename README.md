@@ -4,9 +4,9 @@
 </p>
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🤓 I’m a `Computer Engineering Gradute`. 
+- I’m a `Computer Engineering Gradute`. 
 
-- 🌱 I’m passionate about `Software Engineering` and `Web Development`.
+- I’m passionate about `Software Engineering` and `Web Development`.
 
 - I am enthusiastic about `deep learning and computer vision`
 
@@ -23,7 +23,7 @@
 - **Full-stack Engineer Intern at Bld.ai (Aug 2022 – Nov 2022)**
 
 
-- 📄 Know more about me in my [RESUME](https://drive.google.com/file/d/1cD3Ld8X3tcpis2UYnzrgXChlsxjtrqij/view)
+- 📄 Know more about me in my [RESUME](https://drive.google.com/file/d/1bQIJ7xe63qMwK2Cuun4vERxk5yKQ9yVu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
