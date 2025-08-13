@@ -4,13 +4,9 @@
 </p>
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- I’m a `Computer Engineering Gradute`. 
+- I’m a `Computer Engineering Gradute With Excellent grade`. 
 
 - I’m passionate about `Software Engineering` and `Web Development`.
-
-- I am enthusiastic about `deep learning and computer vision`
-
-
 
 
 🚀 **Experience:**
