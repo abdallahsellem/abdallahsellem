@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Abdallah Selim</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Competitive+Programmer;Computer+Engineering+Gradute;Former+SWE+Intern+@Microsoft;Former+SWE+Intern+@Cegedim;Ex-Full-Stack+Software Engineer+@Bld.ai;4x+ECPC+Finalist;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Competitive+Programmer;Former+SWE+Intern+%40+Microsoft;Former+SWE+Intern+%40+Cegedim;Ex-Full-Stack+Software+Engineer+%40+Bld.ai;4%C3%97+ECPC+Finalist" alt="Typing SVG" /></a>
 </p>
 <img align="right" width="330" height="200" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
